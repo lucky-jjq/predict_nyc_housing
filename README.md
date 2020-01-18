@@ -2,7 +2,7 @@
 
 ---
 
-![Beatown Landlords Demo][1]
+![Beatown Landlords Demo](Airbnb_GIF.gif)
 
 ## Introduction ##
 
