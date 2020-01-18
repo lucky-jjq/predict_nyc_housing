@@ -33,7 +33,7 @@ The Internal Rate of Return (IRR) model helps the landlord visualize how much re
 
 The Web App serves as a interface for users to utilize the results of our analysis. It utilizes a database produced by the Data Analytics Model and the IRR Model, which comprise entries that contain property following lookup attributes - number of bedrooms, number of bathrooms, type of listing (entire place or private room), relative location of the property (21 districts divided into six groups by their relative locations within Boston), number of amenities offered, price of property; and the following return attributes: IRR and nightly rates. The Web App takes the user inputs through a html form and look up the results based on the values of the form fields.
 
-![Design Chart][2]
+![Design Chart](DesignChart.png)
 
 ## Features ##
 
